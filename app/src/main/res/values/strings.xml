@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidKotlinFacebookIntegration</string>
+    <string name="facebook_app_id">400855930353899</string>
+    <string name="fb_login_protocol_scheme">fb400855930353899</string>
+
+
+</resources>
